@@ -50,13 +50,6 @@ minetest.register_craft({
 	recipe = {"farming:wheat", "farming:wheat", "farming:wheat"}
 })
 
---rope to string
-minetest.register_craft({
-	type = "shapeless",
-	output = "farming:string 2",
-	recipe = {"moreblocks:rope"}})
-
-
 minetest.register_craft({
 	type = "cooking",
 	cooktime = 15,

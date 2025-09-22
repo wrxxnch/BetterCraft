@@ -2467,7 +2467,8 @@ void Game::updateCameraOrientation(CameraOrientation *cam, float dtime)
 		}
 
 		f32 sens_scale = getSensitivityScaleFactor();
-		cam->camera_yaw   -= dist.X * m_cache_mouse_sensitivity * sens_scale;
+		// cam->camera_yaw   -= dist.X * m_cache_mouse_sensitivity * sens_scale; tentando inverter eixo X do mouse (jean was here)
+		cam->camera_yaw   += dist.X * m_cache_mouse_sensitivity * sens_scale;
 		cam->camera_pitch += dist.Y * m_cache_mouse_sensitivity * sens_scale;
 
 		if (dist.X != 0 || dist.Y != 0)

@@ -57,16 +57,16 @@ AppDir
 
 ## Non-static Luanti directories or symlinks to these
 /bin/
-/games/*
+# /games/*
 !/games/devtest/
 /games/devtest/mods/soundstuff/sounds/gitignored_sounds/*
 !/games/devtest/mods/soundstuff/sounds/gitignored_sounds/custom_sounds_here.txt
 /cache
-/textures/*
-!/textures/base/
+# /textures/*
+# !/textures/base/
 /screenshots
 /sounds
-/mods/*
+# /mods/*
 !/mods/mods_here.txt
 /worlds/*
 !/worlds/worlds_here.txt
@@ -95,39 +95,39 @@ doc/mkdocs/docs/*.md
 doc/mkdocs/mkdocs.yml
 
 ## Build files
-build/
-CMakeFiles
-Makefile
-cmake_install.cmake
-CMakeCache.txt
-CPackConfig.cmake
-CPackSourceConfig.cmake
-src/cmake_config.h
-src/cmake_config_githash.h
-/locale/
-.directory
-*.cbp
-*.layout
-*.o
-*.a
-*.dump
-*.dmp
-*.ninja
-.ninja*
-*.gch
-*.iml
-test_config.h
-cmake-build-debug/
-cmake-build-minsizerel/
-cmake-build-release/
-cmake-build-relwithdebinfo/
-cmake-build-default/
-cmake_config.h
-cmake_config_githash.h
-CMakeDoxy*
-compile_commands.json
-*.apk
-*.zip
+# build/
+# CMakeFiles
+# Makefile
+# cmake_install.cmake
+# CMakeCache.txt
+# CPackConfig.cmake
+# CPackSourceConfig.cmake
+# src/cmake_config.h
+# src/cmake_config_githash.h
+# /locale/
+# .directory
+# *.cbp
+# *.layout
+# *.o
+# *.a
+# *.dump
+# *.dmp
+# *.ninja
+# .ninja*
+# *.gch
+# *.iml
+# test_config.h
+# cmake-build-debug/
+# cmake-build-minsizerel/
+# cmake-build-release/
+# cmake-build-relwithdebinfo/
+# cmake-build-default/
+# cmake_config.h
+# cmake_config_githash.h
+# CMakeDoxy*
+# compile_commands.json
+# *.apk
+# *.zip
 # Visual Studio
 *.vcxproj*
 *.sln

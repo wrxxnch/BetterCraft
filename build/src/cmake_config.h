@@ -1,0 +1,45 @@
+// Filled in by the build system
+
+#pragma once
+
+#define PROJECT_NAME "luanti"
+#define PROJECT_NAME_C "Luanti"
+#define VERSION_MAJOR 5
+#define VERSION_MINOR 14
+#define VERSION_PATCH 0
+#define VERSION_EXTRA ""
+#define VERSION_STRING "5.14.0-dev-debug"
+#define PRODUCT_VERSION_STRING "5.14"
+#define STATIC_SHAREDIR "."
+#define STATIC_LOCALEDIR "locale"
+#define BUILD_TYPE "Debug"
+#define ICON_DIR "unix/icons"
+#define RUN_IN_PLACE 1
+#define DEVELOPMENT_BUILD 1
+#define ENABLE_UPDATE_CHECKER 1
+#define USE_GETTEXT 1
+#define USE_CURL 1
+#define USE_SOUND 1
+#define USE_CURSES 1
+#define USE_LEVELDB 0
+#define USE_LUAJIT 0
+#define USE_POSTGRESQL 0
+#define USE_PROMETHEUS 0
+#define USE_SPATIAL 0
+#define USE_SYSTEM_GMP 1
+#define USE_SYSTEM_JSONCPP 1
+#define USE_REDIS 0
+#define USE_OPENSSL 1
+#define HAVE_ENDIAN_H 1
+#define HAVE_STRLCPY 1
+#define HAVE_MALLOC_TRIM 1
+#define CURSES_HAVE_CURSES_H 1
+#define CURSES_HAVE_NCURSES_H 1
+#define CURSES_HAVE_NCURSES_NCURSES_H 0
+#define CURSES_HAVE_NCURSES_CURSES_H 0
+#define CURSES_HAVE_NCURSESW_NCURSES_H 1
+#define CURSES_HAVE_NCURSESW_CURSES_H 1
+#define BUILD_UNITTESTS 1
+#define BUILD_BENCHMARKS 0
+#define USE_SDL2 1
+#define BUILD_WITH_TRACY 0

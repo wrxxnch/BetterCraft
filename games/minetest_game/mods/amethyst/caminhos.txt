@@ -1,0 +1,42 @@
+.
+├── caminhos.txt
+├── init.lua
+├── LICENSE.md
+├── mod.conf
+├── sounds
+│   ├── Amethyst_Cluster_break1.ogg
+│   ├── Amethyst_Cluster_break2.ogg
+│   ├── Amethyst_Cluster_break3.ogg
+│   ├── Amethyst_Cluster_break4.ogg
+│   ├── Amethyst_Cluster_place1.ogg
+│   ├── Amethyst_Cluster_place2.ogg
+│   ├── Amethyst_Cluster_place3.ogg
+│   └── Amethyst_Cluster_place4.ogg
+└── textures
+    ├── basalt.png
+    ├── calcite.png
+    ├── gs_amethyst_axe.png
+    ├── gs_amethyst_block.png
+    ├── gs_amethyst_boots_amethyst.png
+    ├── gs_amethyst_boots_amethyst_preview.png
+    ├── gs_amethyst_boots_inv.png
+    ├── gs_amethyst_chestplate_amethyst.png
+    ├── gs_amethyst_chestplate_amethyst_preview.png
+    ├── gs_amethyst_chestplates_inv.png
+    ├── gs_amethyst_crystal.png
+    ├── gs_amethyst_helmet_amethyst.png
+    ├── gs_amethyst_helmet_amethyst_preview.png
+    ├── gs_amethyst_helmet_inv.png
+    ├── gs_amethyst_leggings_amethyst.png
+    ├── gs_amethyst_leggings_amethyst_preview.png
+    ├── gs_amethyst_leggings_inv.png
+    ├── gs_amethyst_ore.png
+    ├── gs_amethyst_pickaxe.png
+    ├── gs_amethyst.png
+    ├── gs_amethyst_shield_amethyst.png
+    ├── gs_amethyst_shield_amethyst_preview.png
+    ├── gs_amethyst_shield_inv.png
+    ├── gs_amethyst_shovel.png
+    └── gs_amethyst_sword.png
+
+3 directories, 37 files

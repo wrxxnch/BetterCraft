@@ -1,0 +1,31 @@
+lib/lua/src/CMakeFiles/lua.dir/ldo.h.o: \
+ /mnt/c/Users/usuario/Downloads/luanti-master/lib/lua/src/ldo.h \
+ /usr/include/stdc-predef.h \
+ /mnt/c/Users/usuario/Downloads/luanti-master/lib/lua/src/lobject.h \
+ /usr/lib/gcc/x86_64-linux-gnu/14/include/stdarg.h \
+ /mnt/c/Users/usuario/Downloads/luanti-master/lib/lua/src/llimits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/14/include/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/14/include/syslimits.h \
+ /usr/include/limits.h \
+ /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/bits/timesize.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/long-double.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+ /usr/include/linux/limits.h \
+ /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+ /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
+ /usr/lib/gcc/x86_64-linux-gnu/14/include/stddef.h \
+ /mnt/c/Users/usuario/Downloads/luanti-master/lib/lua/src/lua.h \
+ /mnt/c/Users/usuario/Downloads/luanti-master/lib/lua/src/luaconf.h \
+ /mnt/c/Users/usuario/Downloads/luanti-master/lib/lua/src/lstate.h \
+ /mnt/c/Users/usuario/Downloads/luanti-master/lib/lua/src/ltm.h \
+ /mnt/c/Users/usuario/Downloads/luanti-master/lib/lua/src/lzio.h \
+ /mnt/c/Users/usuario/Downloads/luanti-master/lib/lua/src/lmem.h

@@ -1,0 +1,2 @@
+"/usr/bin/gcc-ar-14" qc libsha256.a CMakeFiles/sha256.dir/sha256.c.o
+"/usr/bin/gcc-ranlib-14" libsha256.a

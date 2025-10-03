@@ -1,0 +1,2 @@
+"/usr/bin/gcc-ar-14" qc libbitop.a CMakeFiles/bitop.dir/bit.cpp.o
+"/usr/bin/gcc-ranlib-14" libbitop.a
